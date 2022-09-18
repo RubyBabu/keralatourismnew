@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+.nav-item a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration:none;    
+    border:1px solid white;
+    padding:10px;
+    margin:5px;
+}
+.nav-item a:hover{
+    background-color:teal;
+    color:black;
+}
